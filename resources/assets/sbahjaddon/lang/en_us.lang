@@ -1,0 +1,92 @@
+itemGroup.tabMod=sbahj addon
+
+item.nut.name=nut that's that big
+item.nut.tooltip=sure is a big nut
+item.sandwhich.name=subway sandwhich
+item.sandwhich.tooltip=eat fresh
+item.pantshitterDeluxe.name=pantshitter deluxe
+item.pantshitterDeluxe.tooltip=it's me porcelain krabby patty spongebob
+item.turkeyHole.name=turkey hole
+item.turkeyHole.tooltip=thank s giging (day)
+item.chunkyCheese.name=chunky cheese
+item.chunkyCheese.tooltip=not to be confused with the estalbishment of the same name
+item.goldenSandwhich.name=golden sandwish
+item.goldenSandwhich.tooltip=howre you EVEN supposde to eat this?
+item.hotGod.name=hot god
+item.hotGod.tooltip=its just..... a hot god.. awaiting something
+item.jelly.name=jelly
+item.jelly.tooltip=it's just... jedlly.... awaiting something
+item.jelly.rightClickWrongHands=wrong hadns, dunmbass. you gotta flip it TURNWAYS.
+item.jelly.ifOnly=if only you had an HOT GOD. (in youre off hande)
+item.jelly.yum=jelly,,. yum.
+item.jellyHotGod.name=jelly hot god
+item.jellyHotGod.tooltip=AHAHAHAHAHA just HOW HIGH do you even have to BE just to DO something like that........
+item.unrealAir.name=unreal air
+item.unrealAir.tooltip=come get the ruelr
+item.weirdStonk.name=weird stonk
+item.weirdStonk.tooltip=uhhhm, dude? that rank ass vent wind smells like shit
+item.sweetBrosModus.name=sweet bros modus
+item.sweetBrosModus.tooltip="Despite Sweet Bro's best efforts, the nanchos continued to fall."
+item.theSpoon.name=THE spoon
+item.theSpoon.tooltip=its THe spoon
+item.conksuckBoot.name=conkscuk boot
+item.conksuckBoot.tooltip=who would even make these...... conksuck boots anyway
+item.videoGame.name=video game
+item.videoGame.amount=video games in stack:
+tile.exampleBlock.name=Example Block
+tile.exampleBlock.tooltip=shhhh.... dont tell rose i stealed here texture....
+tile.bigSandwhich.name=big sandwhich
+tile.bigSandwhich.tooltip=its like the origenal one... but big
+tile.subwayBread.name=subway bread
+tile.subwayBread.tooltip=mmmmm yoga mats
+tile.turkey.name=turkey
+tile.turkey.tooltip=1/3rd of a blt
+tile.cheese.name=cheese
+tile.cheese.tooltip=large and in charge cheesee
+tile.tomato.name=tomaot
+tile.tomato.tooltip=wait.... is this the t in blt???? then what'se turkey???
+tile.subwayVent.name=rank ass vent
+tile.subwayVent.tooltip=STOP SMELLING THOSE SANDWINCHES YOU HIDEOUS COCK, she's ESCAPING TO THE SIDE.
+tile.cugarCube.name=cugar cube
+tile.cugarCube.tooltip=have'nt i seen this before....
+
+death.attack.sbahj-shitPants=bro! %s just shit their pants
+
+entity.unrealAir.board=you CANNOT beleive how ABSULTELY shitty this thign is
+
+land.subway=Subway
+land.sandwiches=Sandwiches
+land.subs=Subs
+
+config.nutTime=nut time
+
+consort.sbahjSpreading=Recently, I've been seeing more and more shitty jpeg items. Almost as if a shitty Minestuck addon is present...
+
+consort.abundantAccess.1=Here in Subway(TM) lands, we have abundant access to fresh vegetables, cheeses, meats, and condiments directly from the source: Subway(TM)! 
+consort.abundantAccess.2=You, too, can purchase from Subway(TM) today!
+consort.buyFromSubway=Hey, you! I heard Subway(TM) has the best subs in town. The best part? You can build your sub... your way! Purchase them at your local Subway(TM).
+consort.refreshingTaste.1=You'd think after a while we'd get sick of Subway(TM). Not us!
+consort.refreshingTaste.2=We sure do love the fresh, refreshing taste of Subway(TM) sandwiches!
+consort.refreshingTaste.2.desc=The consort forces a photogenic grin and nervously holds up a half-unwrapped Subway(TM) sandwich.
+consort.subwayAd=God, I'm so hungry, and I crave a delicious, healthy, and hearty meal! O wo, what's this? A Subway(TM) sub with crisp lettuce and delicious smoked ham?
+consort.subwayAd.desc=The consort deftly and stealthily pulls an entire photogenic 12-inch Subway(TM) sandwich from behind their back.
+consort.subwayAd.buy=Purchase a Subway(TM) sub [Pay 375 boondollars]
+consort.subwayAd.buy.reply=I'd love a Subway(TM) sub!
+consort.subwayAd.item=Oh... this is... did you even listen to the advertisement? This is mine. Hm... but I could use the cash... so sure, take it.
+consort.subwayAd.item.desc=You hand the consort all 375 boondollars. Hard-earned boondollars for a hard-earned Subway(TM) sandwich!
+consort.subwayAd.deny=Turn down this fantastic offer for a flavorful Subway(TM) sandwich.
+consort.subwayAd.deny.reply=No thanks! Even though I ADORE Subway(TM), I'm not even that hungry right now!
+consort.subwayAd.purchase=Wonderful! All 375 dollars! Thank you for your patronage. I hope to see you at a Subway(TM) restaurant soon!
+consort.subwayAd.noPurchase=Time to enjoy my mouth-watering Subway(TM) sub!
+consort.subwayFoodShop=Welcome to Subway(TM), may I take your order?
+
+store.item.sandwhich.name=Subway(TM) Six-Inch Sub
+store.item.sandwhich.tooltip=The magnum opus of human civilization, for the low, low price of... uh... some boondollars!
+store.item.goldenSandwhich.name=Subway(TM) Six-Inch Sub
+store.item.goldenSandwhich.tooltip=Gonna be real here, this one's off-color and it's real offputting. Please take it.
+store.item.chunkyCheese.name=Subway(TM) Cheese Chunk
+store.item.chunkyCheese.tooltip=Freshly harvested from the nearby sandwiches. Still tastes fresh, too, probably!
+store.tile.bigSandwhich.name=Big Subway(TM) Sandwich
+store.tile.bigSandwhich.tooltip=It's bigger than any other sandwich I've seen, with the exception of all the ones in the sky. But this one is on the ground, and you can buy it!
+
+event.nut=looks as if somone found a NUT

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "sbahjaddon",
+  "name": "sbahj addon",
+  "description": "sbahj addon for minstuck",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["jup"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

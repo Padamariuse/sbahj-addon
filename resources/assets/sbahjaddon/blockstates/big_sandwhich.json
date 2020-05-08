@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "facing=up": { "model": "sbahjaddon:big_sandwhich" },
+        "facing=down": { "model": "sbahjaddon:big_sandwhich", "x": 180 },
+        "facing=north": { "model": "sbahjaddon:big_sandwhich", "x": 90 },
+        "facing=east": { "model": "sbahjaddon:big_sandwhich", "x": 90, "y": 90 },
+        "facing=south": { "model": "sbahjaddon:big_sandwhich", "x": 90, "y": 180 },
+        "facing=west": { "model": "sbahjaddon:big_sandwhich", "x": 90, "y": 270 }
+    }
+}

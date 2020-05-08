@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "sbahjaddon:blocks/tomato_end",
+        "side": "sbahjaddon:blocks/tomato_side"
+    }
+}

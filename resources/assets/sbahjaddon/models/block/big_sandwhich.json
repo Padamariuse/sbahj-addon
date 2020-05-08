@@ -1,0 +1,8 @@
+{   
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "sbahjaddon:blocks/big_sandwhich_bottom",
+        "top": "sbahjaddon:blocks/big_sandwhich_top",
+        "side": "sbahjaddon:blocks/big_sandwhich"
+    }
+}

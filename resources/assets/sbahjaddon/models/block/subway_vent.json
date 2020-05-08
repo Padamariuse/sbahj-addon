@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "sbahjaddon:blocks/subway_vent_end",
+        "side": "sbahjaddon:blocks/subway_vent_side"
+    }
+}

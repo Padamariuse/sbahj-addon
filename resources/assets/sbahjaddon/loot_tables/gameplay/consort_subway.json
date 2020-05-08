@@ -1,0 +1,16 @@
+{
+    "pools": [
+        {
+            "name": "main",
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "sbahjaddon:sandwhich",
+                    "weight": 10,
+                    "quality": 0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "pools": [
+        {
+            "name": "main",
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "sbahjaddon:sandwhich",
+                    "weight": 10,
+                    "quality": -1,
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": {
+                                "min": 1,
+                                "max": 5
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "sbahjaddon:turkey_hole",
+                    "weight": 8,
+                    "quality": -1,
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": {
+                                "min": 1,
+                                "max": 4
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "sbahjaddon:chunky_cheese",
+                    "weight": 7,
+                    "quality": 0,
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": {
+                                "min": 2,
+                                "max": 6
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "sbahjaddon:subway_bread",
+                    "weight": 6,
+                    "quality": -1,
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": {
+                                "min": 1,
+                                "max": 8
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:leaves",
+                    "weight": 8,
+                    "quality": -1,
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": {
+                                "min": 1,
+                                "max": 7
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "sbahjaddon:big_sandwhich",
+                    "weight": 2,
+                    "quality": 0
+                },
+                {
+                    "type": "item",
+                    "name": "sbahjaddon:golden_sandwhich",
+                    "weight": 1,
+                    "quality": 1
+                }
+            ]
+        }
+    ]
+}

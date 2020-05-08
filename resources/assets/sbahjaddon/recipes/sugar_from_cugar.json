@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "sbahjaddon:cugar_cube"
+        }
+    ],
+    "result": {
+        "item": "minecraft:sugar",
+        "count": 4
+    }
+}

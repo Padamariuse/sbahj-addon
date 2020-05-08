@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " S ",
+    "SSS",
+    "SS "
+  ],
+  "key": {
+    "S": {
+        "item": "minecraft:sugar"
+    }
+  },
+  "result": {
+    "item": "sbahjaddon:cugar_cube",
+    "count": 3
+  }
+}
